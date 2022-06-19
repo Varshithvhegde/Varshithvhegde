@@ -15,6 +15,7 @@ Here are some ideas to get you started:-->
 - 👨‍💻 Check out my hosted web projects  
    - [My Portfolio](https://varshithvhegde.github.io)
    - [React Calculator](https://varshithvhegde.github.io/react_calculator)  
-   - [ToDo list Web App](https://varshithvhegde.github.io/todolist)
+   - [ToDo list Web App](https://varshithvhegde.github.io/todolist)  
+   - [Rock Paper Scissor Simple Web Game](https://varshithvhegde.github.io/rockpaperscissors/)
 
 
