@@ -21,4 +21,10 @@ Here are some ideas to get you started:-->
    - [Rock Paper Scissor Simple Web Game](https://varshithvhegde.github.io/rockpaperscissors/)
 
 ## My Contributions  
+### Green Mode
 <img src="https://ghchart.rshah.org/varshithvhegde" alt="Vaarshithvhegde's Github chart"/>
+  
+  
+### Blue Mode
+  
+<img src="https://ghchart.rshah.org/409ba5/varshithvhegde" alt="2016rshah's Blue Github Chart" />
