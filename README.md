@@ -28,3 +28,12 @@ Here are some ideas to get you started:-->
 ### Blue Mode
   
 <img src="https://ghchart.rshah.org/409ba5/varshithvhegde" alt="2016rshah's Blue Github Chart" />
+  
+  
+### Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=varshithvhegde&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/varshithvhegde/github-readme-stats)"/>  
+  
+  
+### Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=varshithvhegde&layout=compact)](https://github.com/varshithvhegde/github-readme-stats)
