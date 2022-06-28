@@ -11,7 +11,7 @@ Here are some ideas to get you started:-->
 - 💬 Ask me about [myself](https://varshithvhegde.github.io)
 - 📫 How to reach me: varshithvh@gmail.com
 - ⚡ Fun fact: I am a Kannada Poem writter  
-- <img src="https://user-images.githubusercontent.com/80502833/174444653-5397e57a-f6dc-4a4b-ab4b-8acaf41aee67.png" width="25px"></img> Visit My [Playstore](https://play.google.com/store/apps/dev?id=7195155598989215375) Check out my Apps
+- <img src="https://user-images.githubusercontent.com/80502833/174444653-5397e57a-f6dc-4a4b-ab4b-8acaf41aee67.png" width="25px"> Visit My [Playstore](https://play.google.com/store/apps/dev?id=7195155598989215375) Check out my Apps
    - [JUST PAINT IT](https://play.google.com/store/apps/details?id=com.varshith.justpaintit)
    - [SCAN ME](https://play.google.com/store/apps/details?id=com.varshith.varshith.qr_generator)
 - 👨‍💻 Check out my hosted web projects  
@@ -20,4 +20,5 @@ Here are some ideas to get you started:-->
    - [ToDo list Web App](https://varshithvhegde.github.io/todolist)  
    - [Rock Paper Scissor Simple Web Game](https://varshithvhegde.github.io/rockpaperscissors/)
 
-
+## My Contributions  
+<img src="https://ghchart.rshah.org/varshithvhegde" alt="Vaarshithvhegde's Github chart"/>
