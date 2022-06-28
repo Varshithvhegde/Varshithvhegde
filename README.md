@@ -32,8 +32,17 @@ Here are some ideas to get you started:-->
   
 ### Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=varshithvhegde&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/varshithvhegde/github-readme-stats)"/>  
+![Varshith V Hegde's GitHub stats](https://github-readme-stats.vercel.app/api?username=varshithvhegde&show_icons=true&theme=radical)
   
   
 ### Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=varshithvhegde&layout=compact)](https://github.com/varshithvhegde/github-readme-stats)
+<!--
+### Github Projects
+
+<a href="https://github.com/Varshithvhegde/WhatsApp_Status_Saver">![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=varshithvhegde&repo=WhatsApp_Status_Saver&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)</a>
+
+   <a href="https://github.com/Varshithvhegde/WhatsApp_Status_Saver">![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=varshithvhegde&repo=WhatsApp_Status_Saver&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)</a>!-->
+   
+ <!--  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=varshithvhegde)](https://github.com/Varshithvhegde/WhatsApp_Status_Saver)
+!-->
