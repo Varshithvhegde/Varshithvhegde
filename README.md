@@ -22,12 +22,12 @@ Here are some ideas to get you started:-->
 
 ## My Contributions  
 ### Green Mode
-<img src="https://ghchart.rshah.org/varshithvhegde" alt="Vaarshithvhegde's Github chart"/>
+<a href="https://github.com/varshithvhegde"><img src="https://ghchart.rshah.org/varshithvhegde" alt="Vaarshithvhegde's Github chart"/></a>
   
   
 ### Blue Mode
   
-<img src="https://ghchart.rshah.org/409ba5/varshithvhegde" alt="2016rshah's Blue Github Chart" />
+<a href="https://github.com/varshithvhegde"><img src="https://ghchart.rshah.org/409ba5/varshithvhegde" alt="2016rshah's Blue Github Chart" /></a>
   
   
 ### Stats
@@ -36,6 +36,7 @@ Here are some ideas to get you started:-->
   
   
 ### Languages
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=varshithvhegde&layout=compact)](https://github.com/varshithvhegde/github-readme-stats)
 <!--
 ### Github Projects
