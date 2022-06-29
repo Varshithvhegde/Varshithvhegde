@@ -19,6 +19,7 @@ Here are some ideas to get you started:-->
    - [React Calculator](https://varshithvhegde.github.io/react_calculator)  
    - [ToDo list Web App](https://varshithvhegde.github.io/todolist)  
    - [Rock Paper Scissor Simple Web Game](https://varshithvhegde.github.io/rockpaperscissors/)
+   - [Digital Clock](https://varshithvhegde.github.io/DigitalClock/)
 
 ## My Contributions  
 ### Green Mode
