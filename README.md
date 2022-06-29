@@ -32,12 +32,12 @@ Here are some ideas to get you started:-->
   
 ### Stats
 
-![Varshith V Hegde's GitHub stats](https://github-readme-stats.vercel.app/api?username=varshithvhegde&show_icons=true&theme=radical)
+[![Varshith V Hegde's GitHub stats](https://github-readme-stats.vercel.app/api?username=varshithvhegde&show_icons=true&theme=radical)](https://github.com/varshithvhegde)
   
   
 ### Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=varshithvhegde&layout=compact)](https://github.com/varshithvhegde/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=varshithvhegde&layout=compact)](https://github.com/varshithvhegde)
 <!--
 ### Github Projects
 
