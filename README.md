@@ -71,7 +71,7 @@ Here are some ideas to get you started:-->
 
 <h3 align="left">Streaks</h3>
 <p><a href="https://github.com/varshithvhegde"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Varshithvhegde&theme=dark&fire=DD2727" alt="varshithvhegde" /></a></p>
-<h2>Coding Quotes</h2>
+<h2>Quotes</h2>
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/Varshithvhegde)
 
