@@ -49,7 +49,7 @@ Here are some ideas to get you started:-->
    
  <!--  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=varshithvhegde)](https://github.com/Varshithvhegde/WhatsApp_Status_Saver)
 !-->
-## My Contributions
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=35&duration=4990&color=F7F7F7&multiline=true&height=70&lines=My+Contributions)](https://git.io/typing-svg)
 <h3 ">A Passionate Developer from India</h3>
 
 <p align="left"> <a href="https://github.com/varshithvhegde"><img src="https://github-profile-trophy.vercel.app/?username=varshithvhegde" alt="varshithvhegde" /></a> </p>
