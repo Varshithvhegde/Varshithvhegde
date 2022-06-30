@@ -68,3 +68,8 @@ Here are some ideas to get you started:-->
 
 <h3 align="left">Streaks</h3>
 <p><a href="https://github.com/varshithvhegde"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=varshithvhegde&" alt="varshithvhegde" /></a></p>
+
+# Blog posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
