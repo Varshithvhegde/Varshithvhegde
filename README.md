@@ -62,7 +62,7 @@ Here are some ideas to get you started:-->
 <h3 align="left">My Stats</h3>
 <p><a  href="https://github.com/varshithvhegde"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=varshithvhegde&show_icons=true&locale=en&layout=compact" alt="varshithvhegde" /></a></p>
 
-
+<br><br><br>
 [![Varshith V Hegde's GitHub stats](https://github-readme-stats.vercel.app/api?username=varshithvhegde&show_icons=true&theme=radical)](https://github.com/varshithvhegde)
 
 <h3 align="left">Streaks</h3>
