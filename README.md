@@ -64,10 +64,10 @@ Here are some ideas to get you started:-->
 
 [![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=varshithvhegde&layout=compact)](https://github.com/varshithvhegde)
 
+
 [![Varshith V Hegde's GitHub stats](https://github-readme-stats.vercel.app/api?username=varshithvhegde&show_icons=true&theme=radical)](https://github.com/varshithvhegde)
 
 
-[![Varshith V Hegde's GitHub stats](https://github-readme-stats.vercel.app/api?username=varshithvhegde&show_icons=true&theme=radical)](https://github.com/varshithvhegde)
 
 <h3 align="left">Streaks</h3>
 <p><a href="https://github.com/varshithvhegde"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Varshithvhegde&theme=dark&fire=DD2727" alt="varshithvhegde" /></a></p>
