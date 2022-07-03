@@ -16,11 +16,12 @@ Here are some ideas to get you started:-->
    - [SCAN ME](https://play.google.com/store/apps/details?id=com.varshith.varshith.qr_generator)
    - [SIGN PDF DIGITALLY](https://play.google.com/store/apps/details?id=com.varshith.pdfdigitalsignature)
 - 👨‍💻 Check out my hosted web projects  
-   - [My Portfolio](https://varshithvhegde.github.io)
-   - [React Calculator](https://varshithvhegde.github.io/react_calculator)  
-   - [ToDo list Web App](https://varshithvhegde.github.io/todolist)  
-   - [Rock Paper Scissor Simple Web Game](https://varshithvhegde.github.io/rockpaperscissors/)
-   - [Digital Clock](https://varshithvhegde.github.io/DigitalClock/)
+   - [My Portfolio 	:woman_technologist:](https://varshithvhegde.github.io)
+   - [React Calculator 🖩](https://varshithvhegde.github.io/react_calculator)  
+   - [ToDo list Web App :date:](https://varshithvhegde.github.io/todolist)  
+   - [Rock🗿 Paper:page_facing_up: Scissor:scissors: Simple Web Game](https://varshithvhegde.github.io/rockpaperscissors/)
+   - [Digital Clock :timer_clock:](https://varshithvhegde.github.io/DigitalClock/)
+   - [Chat Bot :speech_balloon:](https://varshithvhegde.github.io/chatbot/)
 
 <!--## My Contributions  
 ### Green Mode
