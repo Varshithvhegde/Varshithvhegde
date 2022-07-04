@@ -17,7 +17,7 @@ Here are some ideas to get you started:-->
    - [SIGN PDF DIGITALLY](https://play.google.com/store/apps/details?id=com.varshith.pdfdigitalsignature)
 - 👨‍💻 Check out my hosted web projects  
    - [My Portfolio 	:woman_technologist:](https://varshithvhegde.github.io)
-   - [React Calculator 🖩](https://varshithvhegde.github.io/react_calculator)  
+   - [React Calculator 🧮](https://varshithvhegde.github.io/react_calculator)  
    - [ToDo list Web App :date:](https://varshithvhegde.github.io/todolist)  
    - [Rock🗿 Paper:page_facing_up: Scissor:scissors: Simple Web Game](https://varshithvhegde.github.io/rockpaperscissors/)
    - [Digital Clock :timer_clock:](https://varshithvhegde.github.io/DigitalClock/)
