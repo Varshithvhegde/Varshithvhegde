@@ -15,6 +15,7 @@ Here are some ideas to get you started:-->
    - [JUST PAINT IT](https://play.google.com/store/apps/details?id=com.varshith.justpaintit)
    - [SCAN ME](https://play.google.com/store/apps/details?id=com.varshith.varshith.qr_generator)
    - [SIGN PDF DIGITALLY](https://play.google.com/store/apps/details?id=com.varshith.pdfdigitalsignature)
+   - [Whatsapp Status Saver (Github Release)](https://github.com/Varshithvhegde/WhatsApp_Status_Saver/raw/master/release/app-debug.apk)
 - 👨‍💻 Check out my hosted web projects  
    - [My Portfolio 	:woman_technologist:](https://varshithvhegde.me)
    - [React Calculator 🧮](https://varshithvhegde.github.io/react_calculator)  
@@ -22,7 +23,7 @@ Here are some ideas to get you started:-->
    - [Rock🗿 Paper:page_facing_up: Scissor:scissors: Simple Web Game](https://varshithvhegde.github.io/rockpaperscissors/)
    - [Digital Clock :timer_clock:](https://varshithvhegde.github.io/DigitalClock/)
    - [Chat Bot :speech_balloon:](https://varshithvhegde.github.io/chatbot/)
-
+   - [My Weather ☁](https://varshithvhegde.github.io/weather)
 <!--## My Contributions  
 ### Green Mode
 <a href="https://github.com/varshithvhegde"><img src="https://ghchart.rshah.org/varshithvhegde" alt="Vaarshithvhegde's Github chart"/></a>
