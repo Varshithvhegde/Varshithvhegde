@@ -38,7 +38,6 @@ Here are some ideas to get you started:-->
 
 [![Varshith V Hegde's GitHub stats](https://github-readme-stats.vercel.app/api?username=varshithvhegde&show_icons=true&theme=radical)](https://github.com/varshithvhegde)
   
-  
 ### Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=varshithvhegde&layout=compact)](https://github.com/varshithvhegde)
@@ -55,7 +54,8 @@ Here are some ideas to get you started:-->
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lobster&size=45&duration=3000&center=true&width=1000&height=70&lines=My+Contributions;Languages+And+Tools;Github+Stats)](https://git.io/typing-svg)
 <h3>A Passionate Developer from India</h3>
 
-<p align="left"> <a href="https://github.com/varshithvhegde"><img src="https://github-profile-trophy.vercel.app/?username=varshithvhegde" alt="varshithvhegde" /></a> </p>
+<!--<p align="left"> <a href="https://github.com/varshithvhegde"><img src="https://github-profile-trophy.vercel.app/?username=varshithvhegde" alt="varshithvhegde" /></a> </p>!-->
+<p align="left"> <a href="https://github.com/varshithvhegde"><img src="https://github-profile-trophy.vercel.app/?username=Varshithvhegde&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true" alt="varshithvhegde" /></a> </p>
 
 
 
