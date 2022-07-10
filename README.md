@@ -19,7 +19,8 @@ Here are some ideas to get you started:-->
 - 👨‍💻 Check out my hosted web projects  
    - [My Portfolio 	:woman_technologist:](https://varshithvhegde.me)
    - [React Calculator 🧮](https://varshithvhegde.github.io/react_calculator)  
-   - [ToDo list Web App :date:](https://varshithvhegde.github.io/todolist)  
+   - [ToDo list Web App :date:](https://varshithvhegde.github.io/todolist) 
+   - [Github Profile Finder<img src="https://user-images.githubusercontent.com/80502833/178104128-9bbee4b4-8788-405a-ab6b-649f6f921fae.png" width="20px" height="20px"/>](https://varshithvhegde.github.io/GithubProfileFinder)
    - [Chat Bot :speech_balloon:](https://varshithvhegde.github.io/chatbot/)
 <ul><ul><li><details>
 <summary>Load More</summary>
@@ -28,7 +29,6 @@ Here are some ideas to get you started:-->
     <li><a href="https://varshithvhegde.github.io/DigitalClock/">Digital Clock :timer_clock:</a></li>
     <li><a href="https://varshithvhegde.github.io/weather">My Weather ☁</a></li>
     <li><a href="https://varshithvhegde.me/profilecard/">My Profile Card👱‍♂️</a></li>
-    <li><a href="https://varshithvhegde.github.io/GithubProfileFinder">Github Profile Finder<img src="https://user-images.githubusercontent.com/80502833/178104128-9bbee4b4-8788-405a-ab6b-649f6f921fae.png" width="20px" height="20px"/></a></li>
 
    </ul>
 </details></li></ul></ul>
