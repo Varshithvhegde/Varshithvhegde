@@ -81,7 +81,7 @@ Here are some ideas to get you started:-->
 
 <h3 align="left">Spotify Now Listening</h3>
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31udybgrafg2qs5hqrl6pd4xhzwy&unique={true|1|on|yes})
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31udybgrafg2qs5hqrl6pd4xhzwy&cover_image=true&theme=default" /></div>
 
 <br/>  
 
