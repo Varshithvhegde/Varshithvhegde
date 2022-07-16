@@ -58,9 +58,11 @@ Here are some ideas to get you started:-->
    <a href="https://github.com/Varshithvhegde/WhatsApp_Status_Saver">![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=varshithvhegde&repo=WhatsApp_Status_Saver&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)</a>!-->
    
  <!--  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=varshithvhegde)](https://github.com/Varshithvhegde/WhatsApp_Status_Saver)
-!-->
-<!--## [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=35&duration=4990&color=F7F7F7&multiline=true&height=70&lines=My+Contributions)](https://git.io/typing-svg)!-->
+-->
+
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lobster&size=45&duration=3000&center=true&width=1000&height=70&lines=My+Contributions;Languages+And+Tools;Github+Stats)](https://git.io/typing-svg)
+
+<div align="center"><img src="https://gpvc.arturio.dev/Varshithvhegde" /></div>  
 <h3>A Passionate Developer from India</h3>
 
 <!--<p align="left"> <a href="https://github.com/varshithvhegde"><img src="https://github-profile-trophy.vercel.app/?username=varshithvhegde" alt="varshithvhegde" /></a> </p>!-->
