@@ -15,7 +15,7 @@ Here are some ideas to get you started:-->
    - [JUST PAINT IT](https://play.google.com/store/apps/details?id=com.varshith.justpaintit)
    - [SCAN ME](https://play.google.com/store/apps/details?id=com.varshith.varshith.qr_generator)
    - [SIGN PDF DIGITALLY](https://play.google.com/store/apps/details?id=com.varshith.pdfdigitalsignature)
-   - [Whatsapp Status Saver (Github Release)](https://github.com/Varshithvhegde/WhatsApp_Status_Saver/raw/master/release/app-debug.apk)
+   - [Whatsapp Status Saver (Github Release)](https://github.com/Varshithvhegde/WhatsApp_Status_Saver/releases/download/1.0.0/app-debug.apk)
    - [Anime Wallpaper Downloader (Github Release)](https://github.com/Varshithvhegde/Anime_Wallpaper/releases/download/v1.0.0/app-debug.apk)
 - 👨‍💻 Check out my hosted web projects  
    - [My Portfolio 	:woman_technologist:](https://varshithvhegde.me)
