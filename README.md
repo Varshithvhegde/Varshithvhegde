@@ -81,7 +81,7 @@ Here are some ideas to get you started:-->
 
 <h3 align="left">Spotify Now Listening</h3>
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31udybgrafg2qs5hqrl6pd4xhzwy&cover_image=true&theme=default" /></div>  
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31udybgrafg2qs5hqrl6pd4xhzwy&unique={true|1|on|yes})
 
 <br/>  
 
@@ -93,3 +93,5 @@ Here are some ideas to get you started:-->
 
 ### Snake Eating My Contributions
 ![snake gif](https://github.com/Varshithvhegde/Varshithvhegde/blob/output/github-contribution-grid-snake.gif)
+
+
