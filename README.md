@@ -91,6 +91,12 @@ Here are some ideas to get you started:-->
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31udybgrafg2qs5hqrl6pd4xhzwy&cover_image=true&theme=default" /></div>
 
 <br/> 
+<h2>My Recent Blogs</h2>
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+
+
 <h2>Quotes</h2>
 
 
