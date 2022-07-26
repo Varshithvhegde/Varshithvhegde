@@ -62,7 +62,7 @@ Here are some ideas to get you started:-->
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lobster&size=45&duration=3000&center=true&width=1000&height=70&lines=My+Contributions;Languages+And+Tools;Github+Stats)](https://git.io/typing-svg)
 
-<div align="center"><img src="https://gpvc.arturio.dev/Varshithvhegde" /></div>  
+<div align="center"><img src="https://gpvc.arturio.dev/Varshithvhegde" width="120px" height="40px"/></div>  
 <h3>A Passionate Developer from India</h3>
 
 <!--<p align="left"> <a href="https://github.com/varshithvhegde"><img src="https://github-profile-trophy.vercel.app/?username=varshithvhegde" alt="varshithvhegde" /></a> </p>!-->
