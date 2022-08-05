@@ -109,8 +109,3 @@ Here are some ideas to get you started:-->
 
 ### Snake Eating My Contributions
 ![snake gif](https://github.com/Varshithvhegde/Varshithvhegde/blob/output/github-contribution-grid-snake.gif)
-
-
-
-
-
