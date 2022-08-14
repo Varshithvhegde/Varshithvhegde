@@ -98,6 +98,7 @@ Here are some ideas to get you started:-->
 - [Build Portfolio Website with Hugo](https://dev.to/varshithvhegde/build-portfolio-website-with-hugo-2kh4)
 - [SCRCPY : Screen Mirroring](https://dev.to/varshithvhegde/scrcpy-screen-mirroring-dpn)
 - [Create Beautiful Readme without Coding](https://dev.to/varshithvhegde/create-beautiful-readme-with-coding-2i31)
+- [Build A portfolio](https://dev.to/varshithvhegde/build-a-portfolio-48p8)
 <!-- BLOG-POST-LIST:END -->
 
 
