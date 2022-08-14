@@ -16,4 +16,4 @@ jobs:
           # Your RSS feed url
           feed_list: "https://dev.to/feed/varshithvhegde"
           # Maximum number of posts you want
-          max_post_count: 3
+          max_post_count: 5
