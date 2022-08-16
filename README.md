@@ -95,6 +95,7 @@ Here are some ideas to get you started:-->
 <h2>My Recent Blogs</h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Create an Android App with SignUp And SignIn using Firebase](https://dev.to/varshithvhegde/create-an-android-app-with-signup-and-signin-using-firebase-1on1)
 - [Build Portfolio Website with Hugo](https://dev.to/varshithvhegde/build-portfolio-website-with-hugo-2kh4)
 - [SCRCPY : Screen Mirroring](https://dev.to/varshithvhegde/scrcpy-screen-mirroring-dpn)
 - [Create Beautiful Readme without Coding](https://dev.to/varshithvhegde/create-beautiful-readme-with-coding-2i31)
