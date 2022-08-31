@@ -95,11 +95,11 @@ Here are some ideas to get you started:-->
 <h2>My Recent Blogs</h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Create Your Own Live Web Editor using HTML, CSS, and JavaScript](https://dev.to/varshithvhegde/create-your-own-live-web-editor-using-html-css-and-javascript-3j73)
 - [Create an Android App with SignUp And SignIn using Firebase](https://dev.to/varshithvhegde/create-an-android-app-with-signup-and-signin-using-firebase-1on1)
 - [Build Portfolio Website with Hugo](https://dev.to/varshithvhegde/build-portfolio-website-with-hugo-2kh4)
 - [SCRCPY : Screen Mirroring](https://dev.to/varshithvhegde/scrcpy-screen-mirroring-dpn)
 - [Create Beautiful Readme without Coding](https://dev.to/varshithvhegde/create-beautiful-readme-with-coding-2i31)
-- [Build A portfolio](https://dev.to/varshithvhegde/build-a-portfolio-48p8)
 <!-- BLOG-POST-LIST:END -->
 
 
