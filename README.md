@@ -5,7 +5,7 @@
 **Varshithvhegde/Varshithvhegde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:-->
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif"/>  
+
 
 
 - 🔭 I’m currently studying in Mangalore Institute of Technology And Engineering
