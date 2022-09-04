@@ -1,9 +1,12 @@
-# Hi there, I'm [Varshith V Hegde!](https://varshithvhegde.me) <img src="https://github.com/Varshithvhegde/Varshithvhegde/blob/main/wave.gif" height ="30px" width="30px">
+[![MasterHead](https://camo.githubusercontent.com/0850a9b90bf720b08cafe764aea52d8cf2cc7048d4f8080297e8988b76bb08b8/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966)](https://Varshithvhegde.github.io/)
+<h1 align="center">Hi there, I'm <a href="https://Varshithvhegde.github.io">Varshith V Hegde!<a/> <img src="https://github.com/Varshithvhegde/Varshithvhegde/blob/main/wave.gif" height ="30px" width="30px"></h1>
 
 <!--
 **Varshithvhegde/Varshithvhegde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:-->
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif"/>  
+
 
 - 🔭 I’m currently studying in Mangalore Institute of Technology And Engineering
 - 🌱 I’m currently learning Java, JavaScript ,Android Development
@@ -104,11 +107,12 @@ Here are some ideas to get you started:-->
 
 
 
+<!--
 <h2>Quotes</h2>
 
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/Varshithvhegde)
 
 ### Snake Eating My Contributions
-![snake gif](https://github.com/Varshithvhegde/Varshithvhegde/blob/output/github-contribution-grid-snake.gif)
+<!--![snake gif](https://github.com/Varshithvhegde/Varshithvhegde/blob/output/github-contribution-grid-snake.gif)-->
 
