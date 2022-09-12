@@ -103,6 +103,7 @@ Here are some ideas to get you started:-->
 - [Create Your Own Live Web Editor using HTML, CSS, and JavaScript](https://dev.to/varshithvhegde/create-your-own-live-web-editor-using-html-css-and-javascript-3j73)
 - [Create an Android App with SignUp And SignIn using Firebase](https://dev.to/varshithvhegde/create-an-android-app-with-signup-and-signin-using-firebase-1on1)
 - [Build Portfolio Website with Hugo](https://dev.to/varshithvhegde/build-portfolio-website-with-hugo-2kh4)
+- [SCRCPY : Screen Mirroring](https://dev.to/varshithvhegde/scrcpy-screen-mirroring-dpn)
 <!-- BLOG-POST-LIST:END -->
 
 
