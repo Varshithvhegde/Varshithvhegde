@@ -2,7 +2,9 @@
 
 
 
-![Copy of Varshith V Hegde (1280 × 700 px) (1100 × 500 px)](https://user-images.githubusercontent.com/80502833/191967479-245e294e-6971-4236-9a6f-1244fe4da5f1.gif)
+<!--![Copy of Varshith V Hegde (1280 × 700 px) (1100 × 500 px)](https://user-images.githubusercontent.com/80502833/191967479-245e294e-6971-4236-9a6f-1244fe4da5f1.gif)-->
+![Black and Yellow Geometric Technology LinkedIn Banner](https://user-images.githubusercontent.com/80502833/197455806-2d3714a1-ade2-4301-bf17-5379ba548027.svg)
+
 
 <h1 align="center">Hi there, I'm <a href="https://Varshithvhegde.github.io">Varshith V Hegde!<a/> <img src="https://github.com/Varshithvhegde/Varshithvhegde/blob/main/wave.gif" height ="30px" width="30px"></h1>
 
