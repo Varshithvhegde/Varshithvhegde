@@ -106,12 +106,12 @@ Here are some ideas to get you started:-->
 <h2>My Recent Blogs</h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [How I Created a Text Sharing Website using Simple JavaScript](https://dev.to/varshithvhegde/how-i-created-a-text-sharing-website-using-simple-javascript-nbd)
 - [Suggestions to my file sharing Web App](https://dev.to/varshithvhegde/suggestions-to-my-file-sharing-web-app-38jd)
 - [How to work with API on your mobile phone?](https://dev.to/varshithvhegde/how-to-work-with-api-on-your-mobile-phone-34eh)
 - [How I Created Augmented Reality&lpar;AR&rpar; Web App using Only HTML](https://dev.to/varshithvhegde/how-i-created-augmented-realityar-web-app-using-only-html-3201)
 - [I got my Hacktoberfest2022 Badge 🎉](https://dev.to/varshithvhegde/i-got-my-hacktoberfest2022-badge-kpl)
 - [How I Created a File Sharing Website using Simple JavaScript](https://dev.to/varshithvhegde/how-i-created-a-file-sharing-website-using-simple-javascript-355g)
-- [Easy Way to Create Your own QR Code Generator Website](https://dev.to/varshithvhegde/easy-way-to-create-your-own-qr-code-generator-website-3dn2)
 <!-- BLOG-POST-LIST:END -->
 
 
