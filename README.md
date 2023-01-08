@@ -106,8 +106,8 @@ Here are some ideas to get you started:-->
 <h2>My Recent Blogs</h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Text Sharing Website using Simple JavaScript](https://dev.to/varshithvhegde/text-sharing-website-using-simple-javascript-2dp5)
 - [New Technology To Learn in 2023](https://dev.to/varshithvhegde/new-technology-to-learn-in-2023-27l8)
-- [How I Created a Text Sharing Website using Simple JavaScript](https://dev.to/varshithvhegde/how-i-created-a-text-sharing-website-using-simple-javascript-nbd)
 - [Suggestions to my file sharing Web App](https://dev.to/varshithvhegde/suggestions-to-my-file-sharing-web-app-38jd)
 - [How to work with API on your mobile phone?](https://dev.to/varshithvhegde/how-to-work-with-api-on-your-mobile-phone-34eh)
 - [How I Created Augmented Reality&lpar;AR&rpar; Web App using Only HTML](https://dev.to/varshithvhegde/how-i-created-augmented-realityar-web-app-using-only-html-3201)
