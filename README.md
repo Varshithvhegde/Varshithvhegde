@@ -106,12 +106,12 @@ Here are some ideas to get you started:-->
 <h2>My Recent Blogs</h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [7 AI Free Website Tools For Everyone and Anyone](https://dev.to/varshithvhegde/7-ai-free-website-tools-for-everyone-and-anyone-54nb)
 - [Why Google&#39;s Bard AI Lost to ChatGPT](https://dev.to/varshithvhegde/why-googles-bard-ai-lost-to-chatgpt-5f2k)
 - [Convert Your Blogs to Awesome Video Like a Pro 😎 with Zero Editing Skills](https://dev.to/varshithvhegde/convert-your-blogs-to-awesome-video-like-a-pro-with-zero-editing-skills-1lh6)
 - [What and Why Gatsby? &lpar;Build your site blazing fast&rpar;](https://dev.to/varshithvhegde/what-and-why-gatsby-build-your-site-blazing-fast-2len)
 - [Text Sharing Website using Simple JavaScript](https://dev.to/varshithvhegde/text-sharing-website-using-simple-javascript-2dp5)
 - [New Technology To Learn in 2023](https://dev.to/varshithvhegde/new-technology-to-learn-in-2023-27l8)
-- [Suggestions to my file sharing Web App](https://dev.to/varshithvhegde/suggestions-to-my-file-sharing-web-app-38jd)
 <!-- BLOG-POST-LIST:END -->
 
 
