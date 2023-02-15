@@ -17,7 +17,7 @@ Here are some ideas to get you started:-->
 
 
 - 🔭 I’m currently studying in Mangalore Institute of Technology And Engineering
-- 🌱 I’m currently learning Java, JavaScript ,Android Development
+- 🌱 I’m currently learning NodeJS, React and MongoDB
 - 👯 I’m looking to collaborate on Android App Development
 - 💬 Ask me about [myself](https://varshithvhegde.github.io)
 - 📫 How to reach me: varshithvh@gmail.com
