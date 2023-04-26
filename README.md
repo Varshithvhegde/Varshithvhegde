@@ -106,12 +106,12 @@ Here are some ideas to get you started:-->
 <h2>My Recent Blogs</h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Python in the browser with Pyscript](https://dev.to/varshithvhegde/python-in-the-browser-with-pyscript-2b9m)
 - [Creating a Progressive Web App in React A Beginners Guide](https://dev.to/varshithvhegde/creating-a-progressive-web-app-in-react-a-beginners-guide-3l9g)
 - [Achieving 1K Followers on dev.to: My Journey to Success](https://dev.to/varshithvhegde/achieving-1k-followers-on-devto-my-journey-to-success-201n)
 - [7 Free AI Website Tools For Everyone and Anyone](https://dev.to/varshithvhegde/7-ai-free-website-tools-for-everyone-and-anyone-54nb)
 - [Why Google&#39;s Bard AI Lost to ChatGPT](https://dev.to/varshithvhegde/why-googles-bard-ai-lost-to-chatgpt-5f2k)
 - [Convert Your Blogs to Awesome Video Like a Pro 😎 with Zero Editing Skills](https://dev.to/varshithvhegde/convert-your-blogs-to-awesome-video-like-a-pro-with-zero-editing-skills-1lh6)
-- [What and Why Gatsby? &lpar;Build your site blazing fast&rpar;](https://dev.to/varshithvhegde/what-and-why-gatsby-build-your-site-blazing-fast-2len)
 <!-- BLOG-POST-LIST:END -->
 
 
