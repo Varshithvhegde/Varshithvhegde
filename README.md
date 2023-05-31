@@ -88,7 +88,7 @@ Here are some ideas to get you started:-->
 <h3 align="left">My Stats</h3>
 
 
-[![Langs](https://github-readme-stats-varshith.vercel.app/api/top-langs/?username=varshithvhegde&layout=compact)](https://github.com/varshithvhegde)
+[![Langs](https://github-readme-stats.vercel.app/api?username=Varshithvhegde&layout=compact)](https://github.com/varshithvhegde)
 
 <!--
 [![Varshith V Hegde's GitHub stats](https://github-readme-stats.vercel.app/api?username=varshithvhegde&show_icons=true&theme=radical)](https://github.com/varshithvhegde)-->
