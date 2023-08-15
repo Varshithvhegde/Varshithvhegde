@@ -106,12 +106,12 @@ Here are some ideas to get you started:-->
 <h2>My Recent Blogs</h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [5 npm packages for React to Increase your Productivity](https://dev.to/varshithvhegde/5-npm-packages-for-react-to-increase-your-productivity-1fhj)
 - [How I Created a File Sharing Website using Simple REACT](https://dev.to/varshithvhegde/how-i-created-a-file-sharing-website-using-simple-react-41f)
 - [5 Free AI Tools for Everyone and Anyone : Part 2](https://dev.to/varshithvhegde/5-free-ai-tools-for-everyone-and-anyone-part-2-7f9)
 - [Python in the browser with Pyscript](https://dev.to/varshithvhegde/python-in-the-browser-with-pyscript-2b9m)
 - [Creating a Progressive Web App in React A Beginners Guide](https://dev.to/varshithvhegde/creating-a-progressive-web-app-in-react-a-beginners-guide-3l9g)
 - [Achieving 1K Followers on dev.to: My Journey to Success](https://dev.to/varshithvhegde/achieving-1k-followers-on-devto-my-journey-to-success-201n)
-- [7 Free AI Website Tools For Everyone and Anyone](https://dev.to/varshithvhegde/7-ai-free-website-tools-for-everyone-and-anyone-54nb)
 <!-- BLOG-POST-LIST:END -->
 
 
