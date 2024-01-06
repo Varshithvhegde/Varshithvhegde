@@ -30,7 +30,7 @@ Here are some ideas to get you started:-->
    - [Anime Wallpaper Downloader (Github Release)](https://github.com/Varshithvhegde/Anime_Wallpaper/releases/download/v1.0.0/app-debug.apk)
    - [Codester - Contest News (Github Release)](https://github.com/Varshithvhegde/Codester/releases/download/v1.0.0/app-debug.apk)
 - 👨‍💻 Check out my hosted web projects  
-   - [My Portfolio 	:woman_technologist:](https://varshithvhegde.github.io)
+   - [My Portfolio](https://varshithvhegde.github.io)
    - [MarkDown Editor 📝](https://varshithvhegde.github.io/Mark2)  
    - [My Blog Site 🖊](https://varshithvhegde.github.io/hugo-blog) 
    - [Github Profile Finder<img src="https://user-images.githubusercontent.com/80502833/178104128-9bbee4b4-8788-405a-ab6b-649f6f921fae.png" width="20px" height="20px"/>](https://varshithvhegde.github.io/GithubProfileFinder)
