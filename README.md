@@ -1,4 +1,4 @@
-![Purple Geometric Technology LinkedIn Banner](https://user-images.githubusercontent.com/80502833/197458840-6bedfb2b-194c-48d7-b996-7a2ac7c1c3a5.gif)
+![Purple Geometric Technology LinkedIn Banner](https://github.com/user-attachments/assets/6b200efb-e26e-44e8-98c6-e0a0c16105d3)
 
 
 
