@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/6b200efb-e26e-44e8-98c6-e0a0c16105d3" alt="Profile Banner" width="100%">
 
-  # Hello World! I'm [Varshith V Hegde](https://Varshithvhegde.github.io) 👋
+  # Hello World! I'm [Varshith V Hegde](https://varshithvhegde.in) 👋
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Android+Developer;Kannada+Poet;Open+Source+Contributor)](https://git.io/typing-svg)
 
