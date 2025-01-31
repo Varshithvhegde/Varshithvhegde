@@ -35,9 +35,12 @@
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Beginner's Guide to Next.js App Routing](https://dev.to/varshithvhegde/beginners-guide-to-understand-nextjs-app-routing-3nbl)
-- [Creating an Editor Tool for Poets using Next.js](https://dev.to/varshithvhegde/creating-editor-tool-from-scratch-for-poets-using-nextjs-in-a-single-page-1cl5)
-- [Getting Started with Next.js and Github API](https://dev.to/varshithvhegde/getting-started-with-nextjs-and-github-api-k2h)
+- [Beginner&#39;s Guide to Understand Next.js App Routing](https://dev.to/varshithvhegde/beginners-guide-to-understand-nextjs-app-routing-3nbl)
+- [Creating Editor Tool from scratch for poets using Next.js in a single page](https://dev.to/varshithvhegde/creating-editor-tool-from-scratch-for-poets-using-nextjs-in-a-single-page-1cl5)
+- [Getting started with Next.js and Github API](https://dev.to/varshithvhegde/getting-started-with-nextjs-and-github-api-k2h)
+- [Building an Realtime Web Notepad App](https://dev.to/varshithvhegde/building-an-realtime-web-notepad-app-4g50)
+- [5 npm packages for React to Increase your Productivity](https://dev.to/varshithvhegde/5-npm-packages-for-react-to-increase-your-productivity-1fhj)
+- [How I Created a File Sharing Website using Simple REACT](https://dev.to/varshithvhegde/how-i-created-a-file-sharing-website-using-simple-react-41f)
 <!-- BLOG-POST-LIST:END -->
 
 ## 💻 Tech Stack
