@@ -35,12 +35,12 @@
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Introducing GPT-OSS: Run Your Own Open-Source GPT Model Locally](https://dev.to/varshithvhegde/introducing-gpt-oss-run-your-own-open-source-gpt-model-locally-3b4j)
 - [NewsHub - AI-Powered News Aggregation Platform](https://dev.to/varshithvhegde/newshub-ai-powered-news-aggregation-platform-5c11)
 - [Beginner&#39;s Guide to Understand Next.js App Routing](https://dev.to/varshithvhegde/beginners-guide-to-understand-nextjs-app-routing-3nbl)
 - [Creating Editor Tool from scratch for poets using Next.js in a single page](https://dev.to/varshithvhegde/creating-editor-tool-from-scratch-for-poets-using-nextjs-in-a-single-page-1cl5)
 - [Getting started with Next.js and Github API](https://dev.to/varshithvhegde/getting-started-with-nextjs-and-github-api-k2h)
 - [Building an Realtime Web Notepad App](https://dev.to/varshithvhegde/building-an-realtime-web-notepad-app-4g50)
-- [5 npm packages for React to Increase your Productivity](https://dev.to/varshithvhegde/5-npm-packages-for-react-to-increase-your-productivity-1fhj)
 <!-- BLOG-POST-LIST:END -->
 
 ## 💻 Tech Stack
