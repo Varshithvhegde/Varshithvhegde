@@ -35,12 +35,12 @@
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I Built an AI Resume Butler That Actually Gets You Interviews &lpar;Auth0 Made It Possible&rpar;](https://dev.to/varshithvhegde/i-built-an-ai-resume-butler-that-actually-gets-you-interviews-auth0-made-it-possible-2n0d)
 - [I Won a DEV Challenge, Then Built an App to Flex About It Properly 💪](https://dev.to/varshithvhegde/i-won-a-dev-challenge-then-built-an-app-to-flex-about-it-properly-48pn)
 - [[Boost]](https://dev.to/varshithvhegde/-48pg)
 - [Gotta Forge &#39;Em All: Building the Pokémon Creator I Wish I Had as a Kid 🎨](https://dev.to/varshithvhegde/gotta-forge-em-all-building-the-pokemon-creator-i-wish-i-had-as-a-kid-2p9g)
 - [I Built an AI Event Butler So I&#39;d Never Miss Another Tech Meetup &lpar;And You Can Too&rpar;](https://dev.to/varshithvhegde/i-built-an-ai-event-butler-so-id-never-miss-another-tech-meetup-and-you-can-too-37io)
 - [Building &quot;Memory Lane&quot; - Turning Memories into Art with Google AI Studio](https://dev.to/varshithvhegde/building-memory-lane-turning-memories-into-art-with-google-ai-studio-3ba9)
-- [Introducing GPT-OSS: Run Your Own Open-Source GPT Model Locally](https://dev.to/varshithvhegde/introducing-gpt-oss-run-your-own-open-source-gpt-model-locally-3b4j)
 <!-- BLOG-POST-LIST:END -->
 
 ## 💻 Tech Stack
