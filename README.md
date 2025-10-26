@@ -35,7 +35,7 @@
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [I Built an AI Resume Butler That Actually Gets You Interviews &lpar;Auth0 Made It Possible&rpar;](https://dev.to/varshithvhegde/i-built-an-ai-resume-butler-that-actually-gets-you-interviews-auth0-made-it-possible-2n0d)
+- [I Built an AI Agent That Turned My Mediocre Resume Into Interview Gold](https://dev.to/varshithvhegde/i-built-an-ai-resume-butler-that-actually-gets-you-interviews-auth0-made-it-possible-2n0d)
 - [I Won a DEV Challenge, Then Built an App to Flex About It Properly 💪](https://dev.to/varshithvhegde/i-won-a-dev-challenge-then-built-an-app-to-flex-about-it-properly-48pn)
 - [[Boost]](https://dev.to/varshithvhegde/-48pg)
 - [Gotta Forge &#39;Em All: Building the Pokémon Creator I Wish I Had as a Kid 🎨](https://dev.to/varshithvhegde/gotta-forge-em-all-building-the-pokemon-creator-i-wish-i-had-as-a-kid-2p9g)
