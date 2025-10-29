@@ -36,7 +36,7 @@
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Get Started with Auth0 for AI Agents](https://dev.to/varshithvhegde/get-started-with-auth0-for-ai-agents-5gn7)
-- [Build Your Own Gmail AI Agent: A Step-by-Step Guide](https://dev.to/varshithvhegde/build-your-own-gmail-ai-agent-a-step-by-step-guide-1g1g)
+- [Beginner’s Guide to Getting Started with AI Agents &lpar;For Free!&rpar;](https://dev.to/varshithvhegde/build-your-own-gmail-ai-agent-a-step-by-step-guide-1g1g)
 - [I Built an AI Agent That Turned My Mediocre Resume Into Interview Gold](https://dev.to/varshithvhegde/i-built-an-ai-resume-butler-that-actually-gets-you-interviews-auth0-made-it-possible-2n0d)
 - [I Won a DEV Challenge, Then Built an App to Flex About It Properly 💪](https://dev.to/varshithvhegde/i-won-a-dev-challenge-then-built-an-app-to-flex-about-it-properly-48pn)
 - [[Boost]](https://dev.to/varshithvhegde/-48pg)
