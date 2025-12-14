@@ -35,12 +35,12 @@
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [HTML Tags That&#39;ll Make Your Life Easier &lpar;No, Really&rpar;](https://dev.to/varshithvhegde/html-tags-thatll-make-your-life-easier-no-really-570i)
 - [Portfolio - Interactive Bento Grid Experience 🎨✨](https://dev.to/varshithvhegde/portfolio-interactive-bento-grid-experience-4nfc)
 - [News Aggregator - AI-Powered Cross-Platform Development](https://dev.to/varshithvhegde/news-aggregator-ai-powered-cross-platform-development-2l03)
 - [Unit Tests: The Greatest Lie We Tell Ourselves?](https://dev.to/varshithvhegde/unit-tests-the-greatest-lie-we-tell-ourselves-2ehd)
 - [Why index.html? The Unexpected Story Behind the Web&#39;s Most Famous Default File](https://dev.to/varshithvhegde/why-indexhtml-the-unexpected-story-behind-the-webs-most-famous-default-file-34f5)
 - [Get Started with Auth0 for AI Agents](https://dev.to/varshithvhegde/get-started-with-auth0-for-ai-agents-5gn7)
-- [Beginner’s Guide to Getting Started with AI Agents &lpar;For Free!&rpar;](https://dev.to/varshithvhegde/build-your-own-gmail-ai-agent-a-step-by-step-guide-1g1g)
 <!-- BLOG-POST-LIST:END -->
 
 ## 💻 Tech Stack
