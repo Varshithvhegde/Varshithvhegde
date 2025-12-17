@@ -35,7 +35,7 @@
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [HTML Tags That&#39;ll Make Your Life Easier &lpar;No, Really&rpar;](https://dev.to/varshithvhegde/html-tags-thatll-make-your-life-easier-no-really-570i)
+- [HTML tags that NO ONE talks about](https://dev.to/varshithvhegde/html-tags-thatll-make-your-life-easier-no-really-570i)
 - [Portfolio - Interactive Bento Grid Experience 🎨✨](https://dev.to/varshithvhegde/portfolio-interactive-bento-grid-experience-4nfc)
 - [News Aggregator - AI-Powered Cross-Platform Development](https://dev.to/varshithvhegde/news-aggregator-ai-powered-cross-platform-development-2l03)
 - [Unit Tests: The Greatest Lie We Tell Ourselves?](https://dev.to/varshithvhegde/unit-tests-the-greatest-lie-we-tell-ourselves-2ehd)
