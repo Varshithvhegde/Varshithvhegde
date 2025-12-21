@@ -35,12 +35,12 @@
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [If you are creating any Multi Agent or AI apps you need to check this out!!!](https://dev.to/varshithvhegde/if-you-are-creating-any-multi-agent-or-ai-apps-you-need-to-check-this-out-gd6)
 - [Bifrost: The LLM Gateway That&#39;s 40x Faster Than LiteLLM](https://dev.to/varshithvhegde/bifrost-the-llm-gateway-thats-40x-faster-than-litellm-1763)
 - [HTML tags that NO ONE talks about](https://dev.to/varshithvhegde/html-tags-thatll-make-your-life-easier-no-really-570i)
 - [Portfolio - Interactive Bento Grid Experience 🎨✨](https://dev.to/varshithvhegde/portfolio-interactive-bento-grid-experience-4nfc)
 - [News Aggregator - AI-Powered Cross-Platform Development](https://dev.to/varshithvhegde/news-aggregator-ai-powered-cross-platform-development-2l03)
 - [Unit Tests: The Greatest Lie We Tell Ourselves?](https://dev.to/varshithvhegde/unit-tests-the-greatest-lie-we-tell-ourselves-2ehd)
-- [Why index.html? The Unexpected Story Behind the Web&#39;s Most Famous Default File](https://dev.to/varshithvhegde/why-indexhtml-the-unexpected-story-behind-the-webs-most-famous-default-file-34f5)
 <!-- BLOG-POST-LIST:END -->
 
 ## 💻 Tech Stack
