@@ -35,12 +35,12 @@
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Daily Echo - Your Life in Motion 🎥](https://dev.to/varshithvhegde/daily-echo-your-life-in-motion-2938)
 - [My 2025 wrap](https://dev.to/varshithvhegde/my-2025-wrap-ek0)
 - [I Built a Form Backend in a Weekend Because Paying $20/Month for Contact Forms is Stupid](https://dev.to/varshithvhegde/i-built-a-form-backend-in-a-weekend-because-paying-20month-for-contact-forms-is-stupid-1o34)
 - [If you are creating any Multi Agent or AI apps you need to check this out!!!](https://dev.to/varshithvhegde/if-you-are-creating-any-multi-agent-or-ai-apps-you-need-to-check-this-out-gd6)
 - [Bifrost: The LLM Gateway That&#39;s 40x Faster Than LiteLLM](https://dev.to/varshithvhegde/bifrost-the-llm-gateway-thats-40x-faster-than-litellm-1763)
 - [HTML tags that NO ONE talks about](https://dev.to/varshithvhegde/html-tags-thatll-make-your-life-easier-no-really-570i)
-- [Portfolio - Interactive Bento Grid Experience 🎨✨](https://dev.to/varshithvhegde/portfolio-interactive-bento-grid-experience-4nfc)
 <!-- BLOG-POST-LIST:END -->
 
 ## 💻 Tech Stack
