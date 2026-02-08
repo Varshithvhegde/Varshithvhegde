@@ -35,12 +35,12 @@
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [ContractCompass: Your AI Contract Analyst That Actually Speaks Human](https://dev.to/varshithvhegde/contractcompass-your-ai-contract-analyst-that-actually-speaks-human-nfo)
 - [Why Your AI Gateway Needs MCP Integration in 2026](https://dev.to/varshithvhegde/why-your-ai-gateway-needs-mcp-integration-in-2026-3dcf)
 - [Top 5 LLM Gateways in 2026: A Deep-Dive Comparison for Production Teams](https://dev.to/varshithvhegde/top-5-llm-gateways-in-2026-a-deep-dive-comparison-for-production-teams-34d2)
 - [Daily Echo - Your Life in Motion 🎥](https://dev.to/varshithvhegde/daily-echo-your-life-in-motion-2938)
 - [My 2025 wrap](https://dev.to/varshithvhegde/my-2025-wrap-ek0)
 - [I Built a Form Backend in a Weekend Because Paying $20/Month for Contact Forms is Stupid](https://dev.to/varshithvhegde/i-built-a-form-backend-in-a-weekend-because-paying-20month-for-contact-forms-is-stupid-1o34)
-- [If you are creating any Multi Agent or AI apps you need to check this out!!!](https://dev.to/varshithvhegde/if-you-are-creating-any-multi-agent-or-ai-apps-you-need-to-check-this-out-gd6)
 <!-- BLOG-POST-LIST:END -->
 
 ## 💻 Tech Stack
