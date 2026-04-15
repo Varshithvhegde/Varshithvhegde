@@ -35,12 +35,12 @@
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I Spent 3 Days Debugging Our LLM Setup. Turns Out We Needed an AI Gateway the Whole Time.](https://dev.to/varshithvhegde/i-spent-3-days-debugging-our-llm-setup-turns-out-we-needed-an-ai-gateway-the-whole-time-50a2)
 - [The Great Claude Code Leak of 2026: Accident, Incompetence, or the Best PR Stunt in AI History?](https://dev.to/varshithvhegde/the-great-claude-code-leak-of-2026-accident-incompetence-or-the-best-pr-stunt-in-ai-history-3igm)
 - [Using Claude Code with Any LLM: Why a Gateway Changes Everything](https://dev.to/varshithvhegde/using-claude-code-with-any-llm-why-a-gateway-changes-everything-4a0c)
 - [ContractCompass: Your AI Contract Analyst That Actually Speaks Human](https://dev.to/varshithvhegde/contractcompass-your-ai-contract-analyst-that-actually-speaks-human-nfo)
 - [Why Your AI Gateway Needs MCP Integration in 2026](https://dev.to/varshithvhegde/why-your-ai-gateway-needs-mcp-integration-in-2026-3dcf)
 - [Top 5 LLM Gateways in 2026: A Deep-Dive Comparison for Production Teams](https://dev.to/varshithvhegde/top-5-llm-gateways-in-2026-a-deep-dive-comparison-for-production-teams-34d2)
-- [Daily Echo - Your Life in Motion 🎥](https://dev.to/varshithvhegde/daily-echo-your-life-in-motion-2938)
 <!-- BLOG-POST-LIST:END -->
 
 ## 💻 Tech Stack
