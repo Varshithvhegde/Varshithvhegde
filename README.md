@@ -35,12 +35,12 @@
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I Got Sick of Miro Eating 10 Minutes of Every Retro. So I Built a Corkboard for the Web.](https://dev.to/varshithvhegde/i-got-sick-of-miro-eating-10-minutes-of-every-retro-so-i-built-a-corkboard-for-the-web-41n9)
 - [Agent Gateways Are Coming — Here Are the First 6 Platforms Building Them &lpar;2026&rpar;](https://dev.to/varshithvhegde/agent-gateways-are-coming-here-are-the-first-6-platforms-building-them-2026-pfj)
 - [Best MCP Gateways for Enterprise Teams in 2026](https://dev.to/varshithvhegde/best-mcp-gateways-for-enterprise-teams-in-2026-5fk8)
 - [GitHub Broke Git: The Merge Queue Bug That Silently Deleted Your Code](https://dev.to/varshithvhegde/github-broke-git-the-merge-queue-bug-that-silently-deleted-your-code-4f7i)
 - [7 AI Gateways That Actually Work in Production &lpar;2026 Guide&rpar;](https://dev.to/varshithvhegde/7-ai-gateways-that-actually-work-in-production-2026-guide-2p4d)
 - [I Spent 3 Days Debugging Our LLM Setup. Turns Out We Needed an AI Gateway the Whole Time.](https://dev.to/varshithvhegde/i-spent-3-days-debugging-our-llm-setup-turns-out-we-needed-an-ai-gateway-the-whole-time-50a2)
-- [The Great Claude Code Leak of 2026: Accident, Incompetence, or the Best PR Stunt in AI History?](https://dev.to/varshithvhegde/the-great-claude-code-leak-of-2026-accident-incompetence-or-the-best-pr-stunt-in-ai-history-3igm)
 <!-- BLOG-POST-LIST:END -->
 
 ## 💻 Tech Stack
