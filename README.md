@@ -35,12 +35,12 @@
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [PawBot - An AI Desktop Puppy That Eats Your Files 🐾](https://dev.to/varshithvhegde/pawbot-an-ai-desktop-puppy-that-eats-your-files-301a)
 - [[Boost]](https://dev.to/varshithvhegde/-lmm)
 - [I Built a Notebook for Sharing Notes That Doesn&#39;t Ask You to Sign Up First](https://dev.to/varshithvhegde/i-built-a-notebook-for-sharing-notes-that-doesnt-ask-you-to-sign-up-first-2ldd)
 - [I Built a Chat App That Rewrites Its Own UI in Real Time](https://dev.to/varshithvhegde/i-built-a-chat-app-that-rewrites-its-own-ui-in-real-time-21m5)
 - [I Built a Graveyard for My Dead Side Projects - With AI Eulogies &amp; a 3D Cemetery](https://dev.to/varshithvhegde/i-built-a-graveyard-for-my-dead-side-projects-with-ai-eulogies-a-3d-cemetery-5g0e)
 - [1,200 Applications. 4 Offers. Here&#39;s What Actually Got Me the Product-Based Role](https://dev.to/varshithvhegde/1200-applications-4-offers-heres-what-actually-got-me-the-product-based-role-10mp)
-- [I Got Sick of Miro Eating 10 Minutes of Every Retro. So I Built a Corkboard for the Web.](https://dev.to/varshithvhegde/i-got-sick-of-miro-eating-10-minutes-of-every-retro-so-i-built-a-corkboard-for-the-web-41n9)
 <!-- BLOG-POST-LIST:END -->
 
 ## 💻 Tech Stack
