@@ -5,6 +5,10 @@
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Android+Developer;Kannada+Poet;Open+Source+Contributor)](https://git.io/typing-svg)
 
+  <a href="https://dev.to/varshithvhegde">
+    <img src="devto-followers.svg" alt="DEV.to followers" width="360">
+  </a>
+
   ### 🚀 Passionate Developer | 📱 App Creator | ✍️ Technical Writer
 </div>
 
@@ -35,9 +39,7 @@
 
 ## 📝 Latest Blog Posts
 
-<a href="https://dev.to/varshithvhegde">
-  <img src="devto-followers.svg" alt="DEV.to followers" width="360">
-</a>
+> ✍️ I write on **[DEV.to](https://dev.to/varshithvhegde)** — follow me there for more!
 
 <!-- BLOG-POST-LIST:START -->
 - [I Built a Mac Menu Bar App Because I Kept Saying &quot;Wait, What?&quot; in Every Meeting &lpar;Live Demo 🚀&rpar;](https://dev.to/varshithvhegde/i-built-a-mac-menu-bar-app-because-i-kept-saying-wait-what-in-every-meeting-live-demo--3gkj)
