@@ -28,7 +28,7 @@ jobs:
 
       - name: Commit updated badge
         run: |
-          if git diff --quiet -- devto-followers.svg; then
+          if [ -z "$(git status --porcelain -- devto-followers.svg)" ]; then
             echo "Follower count has not changed."
             exit 0
           fi
