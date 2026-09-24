@@ -35,7 +35,7 @@
 
 ## 📝 Latest Blog Posts
 
-<!-- DEVTO-FOLLOWERS-COUNT:START -->**0** DEV.to followers<!-- DEVTO-FOLLOWERS-COUNT:END -->
+<!-- DEVTO-FOLLOWERS-COUNT:START -->**20815** DEV.to followers<!-- DEVTO-FOLLOWERS-COUNT:END -->
 
 <!-- BLOG-POST-LIST:START -->
 - [I Built a Mac Menu Bar App Because I Kept Saying &quot;Wait, What?&quot; in Every Meeting &lpar;Live Demo 🚀&rpar;](https://dev.to/varshithvhegde/i-built-a-mac-menu-bar-app-because-i-kept-saying-wait-what-in-every-meeting-live-demo--3gkj)
