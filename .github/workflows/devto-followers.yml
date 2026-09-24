@@ -26,14 +26,14 @@ jobs:
           DEVTO_API_KEY: ${{ secrets.DEVTO_API_KEY }}
         run: node update_script.js
 
-      - name: Commit updated README
+      - name: Commit updated badge
         run: |
-          if git diff --quiet -- README.md; then
+          if git diff --quiet -- devto-followers.svg; then
             echo "Follower count has not changed."
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add README.md
-          git commit -m "Update DEV.to follower count"
+          git add devto-followers.svg
+          git commit -m "Update DEV.to follower count badge"
           git push

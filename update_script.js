@@ -2,9 +2,7 @@ const fs = require("fs");
 const https = require("https");
 
 const DEVTO_API_KEY = process.env.DEVTO_API_KEY;
-const README_FILE = "README.md";
-const START_MARKER = "<!-- DEVTO-FOLLOWERS-COUNT:START -->";
-const END_MARKER = "<!-- DEVTO-FOLLOWERS-COUNT:END -->";
+const SVG_FILE = "devto-followers.svg";
 const USER_AGENT = "Varshithvhegde-GitHub-Actions";
 
 if (!DEVTO_API_KEY) {
@@ -87,19 +85,23 @@ const getFollowersCount = async () => {
   }
 };
 
-const updateReadme = async () => {
+const updateSvg = async () => {
   const count = await getFollowersCount();
-  let readmeContent = fs.readFileSync(README_FILE, "utf8");
-  const newContent = `${START_MARKER}**${count}** DEV.to followers${END_MARKER}`;
+  const formatted = count.toLocaleString("en-US");
 
-  const regex = new RegExp(`${START_MARKER}[\\s\\S]*?${END_MARKER}`, "g");
-  readmeContent = readmeContent.replace(regex, newContent);
+  let svg = fs.readFileSync(SVG_FILE, "utf8");
+  const regex = /(<text id="followers-count"[^>]*>)[^<]*(<\/text>)/;
 
-  fs.writeFileSync(README_FILE, readmeContent);
-  console.log("README updated with new follower count:", count);
+  if (!regex.test(svg)) {
+    throw new Error(`Could not find followers-count element in ${SVG_FILE}.`);
+  }
+
+  svg = svg.replace(regex, `$1${formatted}$2`);
+  fs.writeFileSync(SVG_FILE, svg);
+  console.log("SVG updated with new follower count:", formatted);
 };
 
-updateReadme().catch((error) => {
+updateSvg().catch((error) => {
   console.error(error);
   process.exit(1);
 });
