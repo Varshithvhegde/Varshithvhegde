@@ -42,12 +42,12 @@
 > ✍️ I write on **[DEV.to](https://dev.to/varshithvhegde)** — follow me there for more!
 
 <!-- BLOG-POST-LIST:START -->
+- [This Post Is Empty. The Comments Are the Article. I&#39;m Freezing It in 48 Hours.](https://dev.to/varshithvhegde/this-post-is-empty-the-comments-are-the-article-im-freezing-it-in-48-hours-3aik)
 - [Entitled: An AI Agent That Tells Indians Which Government Schemes They&#39;re Owed &lpar;Built on Sanity&rpar;](https://dev.to/varshithvhegde/entitled-an-ai-agent-that-tells-indians-which-government-schemes-theyre-owed-built-on-sanity-4dml)
 - [Everything About This Secrets Manager Screamed &#39;Too Good to Be True.&#39; So I Tested That.](https://dev.to/varshithvhegde/everything-about-this-secrets-manager-screamed-too-good-to-be-true-so-i-tested-that-5e8a)
 - [I Built a Mac Menu Bar App Because I Kept Saying &quot;Wait, What?&quot; in Every Meeting &lpar;Live Demo 🚀&rpar;](https://dev.to/varshithvhegde/i-built-a-mac-menu-bar-app-because-i-kept-saying-wait-what-in-every-meeting-live-demo--3gkj)
 - [PawBot - An AI Desktop Puppy That Eats Your Files 🐾](https://dev.to/varshithvhegde/pawbot-an-ai-desktop-puppy-that-eats-your-files-301a)
 - [[Boost]](https://dev.to/varshithvhegde/-lmm)
-- [I Built a Notebook for Sharing Notes That Doesn&#39;t Ask You to Sign Up First](https://dev.to/varshithvhegde/i-built-a-notebook-for-sharing-notes-that-doesnt-ask-you-to-sign-up-first-2ldd)
 <!-- BLOG-POST-LIST:END -->
 
 ## 💻 Tech Stack
