@@ -42,12 +42,12 @@
 > ✍️ I write on **[DEV.to](https://dev.to/varshithvhegde)** — follow me there for more!
 
 <!-- BLOG-POST-LIST:START -->
+- [The Most Embarrassing Private Key in Web PKI History](https://dev.to/varshithvhegde/the-most-embarrassing-private-key-in-web-pki-history-f9b)
 - [PHP2Shell, explained: the two critical PHP bugs every team needs to patch](https://dev.to/varshithvhegde/php2shell-explained-the-two-critical-php-bugs-every-team-needs-to-patch-4eph)
 - [[Boost]](https://dev.to/varshithvhegde/-h9m)
 - [The Browser Already Has a Priority System. Your debounce&lpar;300&rpar; Does Not.](https://dev.to/varshithvhegde/the-browser-already-has-a-priority-system-your-debounce300-does-not-e28)
 - [This Post Is Empty. The Comments Are the Article. I&#39;m Freezing It in 48 Hours.](https://dev.to/varshithvhegde/this-post-is-empty-the-comments-are-the-article-im-freezing-it-in-48-hours-3aik)
 - [Entitled: An AI Agent That Tells Indians Which Government Schemes They&#39;re Owed &lpar;Built on Sanity&rpar;](https://dev.to/varshithvhegde/entitled-an-ai-agent-that-tells-indians-which-government-schemes-theyre-owed-built-on-sanity-4dml)
-- [Everything About This Secrets Manager Screamed &#39;Too Good to Be True.&#39; So I Tested That.](https://dev.to/varshithvhegde/everything-about-this-secrets-manager-screamed-too-good-to-be-true-so-i-tested-that-5e8a)
 <!-- BLOG-POST-LIST:END -->
 
 ## 💻 Tech Stack
