@@ -42,12 +42,12 @@
 > ✍️ I write on **[DEV.to](https://dev.to/varshithvhegde)** — follow me there for more!
 
 <!-- BLOG-POST-LIST:START -->
+- [Top 7 Best Agent Gateways](https://dev.to/varshithvhegde/top-7-best-agent-gateways-lhi)
 - [Codex Was Torching Your SSD and Nobody Noticed for Months](https://dev.to/varshithvhegde/codex-was-torching-your-ssd-and-nobody-noticed-for-months-4c5h)
 - [The Most Embarrassing Private Key in Web PKI History](https://dev.to/varshithvhegde/the-most-embarrassing-private-key-in-web-pki-history-f9b)
 - [PHP2Shell, explained: the two critical PHP bugs every team needs to patch](https://dev.to/varshithvhegde/php2shell-explained-the-two-critical-php-bugs-every-team-needs-to-patch-4eph)
 - [[Boost]](https://dev.to/varshithvhegde/-h9m)
 - [The Browser Already Has a Priority System. Your debounce&lpar;300&rpar; Does Not.](https://dev.to/varshithvhegde/the-browser-already-has-a-priority-system-your-debounce300-does-not-e28)
-- [This Post Is Empty. The Comments Are the Article. I&#39;m Freezing It in 48 Hours.](https://dev.to/varshithvhegde/this-post-is-empty-the-comments-are-the-article-im-freezing-it-in-48-hours-3aik)
 <!-- BLOG-POST-LIST:END -->
 
 ## 💻 Tech Stack
